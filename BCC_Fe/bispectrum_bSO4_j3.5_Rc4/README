@@ -1,0 +1,20 @@
+
+Files:
+  *.poscar  -> poscar files used to compute desriptors
+  *.eml     -> descriptor files
+  *.xyz     -> Cartesian coordinates with computed distortion scores
+  
+File names: 
+  01_10*_****** -> defect-free structures for training
+  06_101_000001 -> <110> SIA dumbbell
+  07_101_000001 -> monovacancy
+  07_103_000001 -> divacancy
+  08_110_000001 -> C15 cluster
+  09_102_000001 -> non-parallel (NP) cluster
+  13_110_0000** -> NEB path: C15-NP transition
+  14_100_0000** -> NEB path: 1/2<111> dislocation dipole
+  
+  
+
+
+
