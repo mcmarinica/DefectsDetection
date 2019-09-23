@@ -1,6 +1,8 @@
 
 Files:
-  *.poscar  -> poscar files used to compute desriptors
+  *.poscar  -> poscar files used to compute desriptors. These  files were generated from the xyz files provided by the database 
+               used  in the developement of the GAP potential located at http://www.libatoms.org/Home/IronGAP. Here, we have used the 
+               data labeled as "primitive" and "bulk" on the http://www.libatoms.org/Home/IronGAP .
   *.eml     -> descriptor files
   *.xyz     -> Cartesian coordinates with computed distortion scores
   
@@ -13,6 +15,8 @@ File names:
   09_102_000001 -> non-parallel (NP) cluster
   13_110_0000** -> NEB path: C15-NP transition
   14_100_0000** -> NEB path: 1/2<111> dislocation dipole
+  
+  
   
   
 
